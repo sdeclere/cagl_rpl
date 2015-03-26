@@ -1,5 +1,5 @@
 # Cagl_rpl
-Scripts used to compute results presented in " GENOME-WIDE REPLICATION LANDSCAPE
+Key scripts used to compute results presented in " GENOME-WIDE REPLICATION LANDSCAPE
 OF CANDIDA GLABRATA"
 
 # Abstract of the study 
@@ -14,8 +14,8 @@ This is *not* a complet package by rather a separate set of scripts.
 
 # List of scripts 
 
-* origs.R  : gather peaks calling related function 
-* ars.R 
+* origs.R: gather peaks calling related function 
+* ars.R: routines for ARS definition 
 * ...
 
 # License
